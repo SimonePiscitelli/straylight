@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+pystraylight/__init__.py
+pystraylight/modulo.py
+pystraylight.egg-info/PKG-INFO
+pystraylight.egg-info/SOURCES.txt
+pystraylight.egg-info/dependency_links.txt
+pystraylight.egg-info/top_level.txt
+tests/test_modulo.py
