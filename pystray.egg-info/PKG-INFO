@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: pystray
+Version: 0.1.0
+Summary: Python package for managing stray light contamination in XMM - Newton observations. Contains mainly two algoritms: 1. SHADE: inferring mis-alignment parameters and producing analytical pattern 2. CAS: Image processing algorithm for removal
+Author-email: Simone Piscitelli <simone.piscitelli97@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/SimonePiscitelli/straylight
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
