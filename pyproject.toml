@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pystray"  # Scegli un nome unico su PyPI
+version = "0.1.0"
+description = "Python package for managing stray light contamination in XMM - Newton observations. Contains mainly two algoritms: 
+                1. SHADE: inferring mis-alignment parameters and producing analytical pattern
+                2. CAS: Image processing algorithm for removal"
+
+readme = "README.md"
+authors = [
+    { name = "Simone Piscitelli", email = "simone.piscitelli97@gmail.com" }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.7"
+dependencies = [
+    # Inserisci qui eventuali dipendenze esterne, es. "requests>=2.28.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/tuonome/MioProgetto"
