@@ -1,0 +1,4 @@
+Configuration,l_ratio,p_max,s_space,m,n_iter_dil,connectivity,ksize,xp,yp,zoom,gamma
+Conf1,0.38,60.0,1.0,20.0,1,5,3,6215.0,12967.0,300.0,2.0
+Conf2,0.38,60.0,1.0,20.0,1,5,3,6215.0,12967.0,300.0,2.0
+Conf3,0.38,60.0,1.0,20.0,1,5,3,6215.0,12967.0,300.0,2.0
