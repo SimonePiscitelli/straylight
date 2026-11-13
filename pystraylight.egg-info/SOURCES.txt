@@ -2,9 +2,14 @@ LICENSE
 README.md
 pyproject.toml
 pystraylight/__init__.py
+pystraylight/analytical_framework.py
 pystraylight/modulo.py
+pystraylight/produce_arcs_pattern.py
+pystraylight/utils.py
 pystraylight.egg-info/PKG-INFO
 pystraylight.egg-info/SOURCES.txt
 pystraylight.egg-info/dependency_links.txt
 pystraylight.egg-info/top_level.txt
+pystraylight/cas/cas.py
+pystraylight/cas/set_params.py
 tests/test_modulo.py
